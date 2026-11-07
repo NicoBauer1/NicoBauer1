@@ -1,10 +1,9 @@
-# Nico Bauer
+<h1 align="center">Nico Bauer</h1>
+<p align="center"><b>AI · Neural networks · Machine learning</b></p>
 
-AI. Neural networks. Machine learning.
+Intelligence you can't verify is a demo, not a system.
+I care about the kind that works – and about proving it.
 
-A model that looks smart is cheap. A model that provably works is not.
-That is the kind I care about.
+First principles. Build, measure, fix, repeat.
 
-First principles, not convention. Build, measure, fix, repeat.
-
-[code@nico-bauer.com](mailto:code@nico-bauer.com)
+<p align="center"><a href="mailto:code@nico-bauer.com">code@nico-bauer.com</a></p>
