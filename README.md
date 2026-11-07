@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge" alt="Machine Learning">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NicoBauer1&style=for-the-badge&color=1F2937&label=Profile+views" alt="Profile views">
+</p>
+
 <p align="center"><i>Intelligence you can't verify is a demo, not a system.</i></p>
 
 ---
