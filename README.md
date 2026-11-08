@@ -6,14 +6,19 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge" alt="Machine Learning">
 </p>
 
-<p align="center"><i>Intelligence you can't verify is a demo, not a system.</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NicoBauer1&style=for-the-badge&color=1F2937&label=Profile+views" alt="Profile views">
+</p>
+
+<p align="center"><i>AI will be the most consequential technology of this century.<br>Whether it is also the most trustworthy is an engineering decision.</i></p>
 
 ---
 
-The AI I care about has to be right – and has to prove it.
-Models that look smart are cheap. Models that provably work are not.
+If it only works in the demo, it doesn't work.
+Reality is the only benchmark that matters.
+Looking smart is cheap. Being right is hard. Hard is the point.
 
-**Principles** — first principles over convention · measure, or it didn't happen · delete before you optimize · build, measure, fix, repeat.
+**Operating principles** — reason from physics, not from convention · delete before you optimize · measure, or it didn't happen · be wrong fast, be right faster.
 
 ---
 
