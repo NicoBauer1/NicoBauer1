@@ -8,19 +8,20 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge" alt="Machine Learning">
 </p>
 
-<h3 align="center"><i>AI will be the most consequential technology of this century.<br>Whether it is also the most trustworthy is an engineering decision.</i></h3>
+<h3 align="center"><i>Digital superintelligence is coming.<br>Whether it seeks truth or not will decide this century.</i></h3>
 
 <p align="center">
-  If it only works in the demo, it doesn't work.<br>
-  Reality is the only benchmark that matters.<br>
-  Looking smart is cheap. Being right is hard. <b>Hard is the point.</b>
+  AI is the most powerful technology humanity will ever build – and the most dangerous one to get wrong.<br>
+  The safest AI is the one that is curious about the universe and tells the truth, even when the truth is uncomfortable.<br>
+  Intelligence that lives only in a data center is a demo. Intelligence that drives, walks and builds is the real thing.<br>
+  The upside is abundance: energy, labor and knowledge without scarcity. That is worth getting right.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Question%20every%20requirement-1F2937?style=flat-square" alt="Question every requirement">
-  <img src="https://img.shields.io/badge/Delete%20before%20you%20optimize-1F2937?style=flat-square" alt="Delete before you optimize">
-  <img src="https://img.shields.io/badge/Be%20wrong%20fast%2C%20be%20right%20faster-1F2937?style=flat-square" alt="Be wrong fast, be right faster">
-  <img src="https://img.shields.io/badge/Reason%20from%20physics%2C%20not%20convention-1F2937?style=flat-square" alt="Reason from physics, not convention">
+  <img src="https://img.shields.io/badge/Truth--seeking%20AI-1F2937?style=flat-square" alt="Truth-seeking AI">
+  <img src="https://img.shields.io/badge/Real--world%20AI-1F2937?style=flat-square" alt="Real-world AI">
+  <img src="https://img.shields.io/badge/Physics%20sets%20the%20limits-1F2937?style=flat-square" alt="Physics sets the limits">
+  <img src="https://img.shields.io/badge/Abundance%2C%20not%20scarcity-1F2937?style=flat-square" alt="Abundance, not scarcity">
 </p>
 
 <p align="center">
