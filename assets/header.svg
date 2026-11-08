@@ -319,8 +319,9 @@
     <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif">
       <text x="60" y="70" fill="#C9CED6" font-size="17" font-weight="600" letter-spacing="6">NICO BAUER</text>
       <rect x="60" y="82" width="40" height="2" fill="#ffffff" opacity="0.85"/>
-      <text x="60" y="168" fill="#ffffff" font-size="54" font-weight="800" letter-spacing="-1">Superintelligence is coming.</text>
-      <text x="60" y="212" fill="#B4BAC4" font-size="24" font-weight="400">Sooner than you think. Probably next year.</text>
+      <text x="60" y="170" fill="#ffffff" font-size="58" font-weight="800" letter-spacing="-1">Superintelligence is coming.</text>
+      <text x="60" y="214" fill="#B4BAC4" font-size="26" font-weight="400">Sooner than you think. Probably next year.</text>
     </g>
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
   </g>
 </svg>
