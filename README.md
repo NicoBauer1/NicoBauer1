@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reason%20from%20physics-1F2937?style=flat-square" alt="Reason from physics">
+  <img src="https://img.shields.io/badge/Question%20every%20requirement-1F2937?style=flat-square" alt="Question every requirement">
   <img src="https://img.shields.io/badge/Delete%20before%20you%20optimize-1F2937?style=flat-square" alt="Delete before you optimize">
-  <img src="https://img.shields.io/badge/Measure%2C%20or%20it%20didn%27t%20happen-1F2937?style=flat-square" alt="Measure, or it didn't happen">
   <img src="https://img.shields.io/badge/Be%20wrong%20fast%2C%20be%20right%20faster-1F2937?style=flat-square" alt="Be wrong fast, be right faster">
+  <img src="https://img.shields.io/badge/Reason%20from%20physics%2C%20not%20convention-1F2937?style=flat-square" alt="Reason from physics, not convention">
 </p>
 
 <p align="center">
